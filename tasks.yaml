@@ -1,0 +1,41 @@
+# tasks.yaml
+
+healthcare_task:
+  description: >
+    Assist with healthcare-related queries by analyzing treatment options, resource allocation, and patient data privacy from scientific, safety, and ethical viewpoints.
+  example_queries:
+    - "What are the best treatment options for a specific condition?"
+    - "How should resources be allocated during a healthcare crisis?"
+    - "How can we ensure patient data privacy while maintaining medical accuracy?"
+
+finance_task:
+  description: >
+    Provide insights on finance-related questions, assessing risk, investment opportunities, and ethical implications of financial practices.
+  example_queries:
+    - "Is this investment opportunity secure and profitable?"
+    - "How does this new credit scoring model ensure fairness and accuracy?"
+    - "What is a balanced portfolio strategy for sustainable growth?"
+
+logistics_task:
+  description: >
+    Guide logistics-related inquiries by optimizing routes, managing supply chain risks, and evaluating automation's ethical impacts.
+  example_queries:
+    - "What is the most efficient route plan for our logistics network?"
+    - "How can we mitigate risks in the supply chain effectively?"
+    - "What ethical considerations are there for warehouse automation?"
+
+education_task:
+  description: >
+    Answer education-focused questions, providing advice on curriculum development, student data privacy, and AI tutor program ethics.
+  example_queries:
+    - "How can we make a STEM curriculum both inclusive and impactful?"
+    - "What measures ensure student data privacy in education?"
+    - "How ethical is the implementation of AI tutors in schools?"
+
+technology_task:
+  description: >
+    Respond to technology-related queries with a focus on ethics in AI, cybersecurity, and responsible innovation practices.
+  example_queries:
+    - "How can we ensure our AI development follows ethical standards?"
+    - "What is a comprehensive cybersecurity framework for our platform?"
+    - "What are the ethical considerations in deploying new software?"
